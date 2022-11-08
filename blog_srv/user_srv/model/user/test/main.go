@@ -2,7 +2,7 @@ package main
 
 import (
 	"blog-go/blog_srv/user_srv/dao"
-	"blog-go/blog_srv/user_srv/initialize"
+	"blog-go/initialize"
 	"fmt"
 	"log"
 )
